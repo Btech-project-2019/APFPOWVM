@@ -1,0 +1,8 @@
+1) arduiono mega
+2) Servo motors 4 ( 4 pwm pins and 5volt from 7805)
+3)Coin detector ( 1 interrupt pin and 12 volt from smps)
+4) 4pin lcd screen
+6) 1 ultrasonic sensor ( 2 digital pins and 5 volt )
+7) 1 heater relay ( controlled with digital pin connecting direct ac to heater)
+8) wifi module( rx tx 1, 3.3 volt with capacitor to vcc and ch pin)
+  9) load cell ( gnd vcc 5volt arduino, 2pins to analog in)

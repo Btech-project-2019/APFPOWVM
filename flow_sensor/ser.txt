@@ -1,0 +1,6 @@
+normal
+open 70 close 165
+hot1
+open 90 close 180
+hot 2
+close 170 open 100
